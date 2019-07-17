@@ -1,3 +1,3 @@
 # EduPrj
 Kubernetes Education Project
-##수정도 가능
+## 수정도 가능
