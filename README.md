@@ -34,7 +34,7 @@ Please report bugs to ballo72[at]gmail.com.
 # todo
 # CONTRIBUTING
 
-The github repository is at https://github.com/ballo72/EduPrj.git
+The github repository is at https://github.com/ballo72/EduPrj
 
 # SEE ALSO
 
