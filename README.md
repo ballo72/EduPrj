@@ -27,4 +27,23 @@ cd ./kubernets
 . KubProvision.sh
 '''
 
-ㅁㅁㅁㅁ
+# BUGS
+
+Please report bugs to ballo72[at]gmail.com.
+
+# todo
+# CONTRIBUTING
+
+The github repository is at https://github.com/ballo72/EduPrj.git
+
+# SEE ALSO
+
+Some other stuff.
+
+# AUTHOR
+
+HaSunYong, <ballo72[at]gmail.com>
+
+# COPYRIGHT AND LICENSE
+
+(c) Copyright 2005-2017 by skbroadband.com
