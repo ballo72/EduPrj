@@ -2,7 +2,7 @@
 Kubernetes Education Project
 
 ## 내용 
-- 목적 : 잘하자
+- 목적 : Purpose Edu Result
 - 구성 : Nginx/Html
 - 요건 : Docker builder / kubernetes 배포 
 
